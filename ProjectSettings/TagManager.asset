@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Path
+  - Palceable
+  - non-placeable
   layers:
   - Default
   - TransparentFX
